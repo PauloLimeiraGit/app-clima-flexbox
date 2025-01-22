@@ -1,0 +1,1 @@
+Criação de um layout para app de clima utilizando html e css, utilizando o flexbox para organizar elementos.
